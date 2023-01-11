@@ -6,4 +6,13 @@ public class Main {
 		System.out.println("This is Java class available in my local workspace ");
 	}
 
+	
+	public static void reverseString() {
+		
+		
+		
+		
+		
+	}
+	
 }
