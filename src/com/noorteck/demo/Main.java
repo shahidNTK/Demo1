@@ -7,6 +7,7 @@ public class Main {
 		System.out.println("New line");
 		System.out.println("New Line'");
 		System.out.println(("New Line'"));
+		System.out.println(("New Line'"));
 	}
 
 }
