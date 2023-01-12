@@ -6,6 +6,7 @@ public class Main {
 		System.out.println("This is Java class available in my local workspace ");
 		System.out.println("New line");
 		System.out.println("New Line'");
+		System.out.println(("New Line'"));
 	}
 
 }
