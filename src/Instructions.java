@@ -1,6 +1,14 @@
 
 public class Instructions {
 	
+	public static void main(String[] args) {
+		String originalString = "Hello World! @  123_456";
+		String newString = replaceNonAlphanumeric(originalString);
+		System.out.println(newString);
+	}
+	public static String replaceNonAlphanumeric(String input) {
+	    return input.replaceAll("[^0-9_]", "");
+	}
 	
 	
 	// Replicate the same steps (3)
